@@ -164,8 +164,8 @@ I welcome collaboration in:
 - 💼 **LinkedIn:** [Dr. Ghulam Mudassir](https://www.linkedin.com/in/ghulam-mudassir-a5466146)
 - 📚 **Google Scholar:** [Research Publications](https://scholar.google.com/citations?user=j7gJUWUAAAAJ&hl=en)
 - 🆔 **ORCID:** [0000-0002-1714-8146](https://orcid.org/0000-0002-1714-8146)
+- 🤗 **Hugging Face:** [mudassirmalik](https://huggingface.co/mudassirmalik)
 - 💻 **GitHub:** [ghulammudassir](https://github.com/ghulammudassir)
-
 
 ---
 
