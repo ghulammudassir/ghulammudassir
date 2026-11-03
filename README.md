@@ -162,10 +162,11 @@ I welcome collaboration in:
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [Dr. Ghulam Mudassir](https://www.linkedin.com/in/ghulam-mudassir-a5466146)
-- 📚 **Google Scholar:** [Research Publications](https://scholar.google.com/citations?user=j7gJUWUAAAAJ&hl=en)
-- 🆔 **ORCID:** [0000-0002-1714-8146](https://orcid.org/0000-0002-1714-8146)
-- 💻 **GitHub:** [ghulammudassir](https://github.com/ghulammudassir)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1714--8146-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1714-8146)
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=j7gJUWUAAAAJ&hl=en)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ghulammudassir-181717?logo=github&logoColor=white)](https://github.com/ghulammudassir)
 
 
 ---
