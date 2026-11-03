@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Assistant Professor/ Computing Lecturer, Artificial Intelligence Researcher, and Data Scientist** with extensive international experience in higher education, academic research, and interdisciplinary collaboration.
+I'm a **Assistant Professor, Artificial Intelligence Researcher, and Data Scientist** with extensive international experience in higher education, academic research, and interdisciplinary collaboration.
 
 Currently, I serve as a **Lecturer in Computing at the University of Buckingham, UK**, and as a collaborative lecturer at **Guangzhou Panyu Polytechnic, China**.
 
